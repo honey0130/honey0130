@@ -32,9 +32,7 @@
   <img alt="Solana" src="https://img.shields.io/badge/-Solana-E34F26?style=flat-square&logo=solana5&logoColor=white" />
   <img alt="Eethereum" src="https://img.shields.io/badge/-Ehereum-DD0031?style=flat-square&logo=ethereum&logoColor=white" />
 </p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/daeniel" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://discord.com/users/1077968756644511795" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a><a href="https://t.me/ordtech" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
+
 
 ------------
 <p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!<br />
