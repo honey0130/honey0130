@@ -36,5 +36,5 @@
 
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!<br />
+<p align="center">This <i>README</i> file is generated <b>every day</b>!<br />
 
