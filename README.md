@@ -3,7 +3,7 @@
 <h3>FULL STACK & BLOCKCHAIN DEVELOPER</h3>
 <h3>I am passionate and seasoned solution architect and software engineer with a robust expertise in web and
 blockchain technologies</h3>
-<h3>I specialize in Auction, Raffle, P2E NFT Gmae, NFT, Ordinal Mint, Non Cutodial Staking, Marketplace</h3>
+<h3>I specialize in Auction, Raffle, P2E NFT Game, NFT, Ordinal Mint, Non Cutodial Staking, Marketplace</h3>
 <h3>Also I have experience in Rune and Brc20 Swap</h3>
 <h3>Things I code with</h3>
 <p>
